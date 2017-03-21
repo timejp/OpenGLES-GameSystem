@@ -24,3 +24,8 @@
 7. Socket.IO (Nodejs)
 8. App의 Socket통신 모듈
 9. 게임 데이터 파일 (obj) 앱 설치이후 다운받는 시스템
+
+* * *
+
+## 참고
+[AndroidタブレットにOpenGLで3D空間を作って立体を並べるサンプル集](http://coskx.webcrow.jp/mrr/for_students/androidopengles/index.html)
